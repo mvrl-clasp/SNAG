@@ -5,7 +5,7 @@ We also provide an Image Annotation Software that allows labeling of image regio
 ![alt text](https://github.com/mvrl-clasp/SNAG/blob/master/thesissnagrawdata.jpg "Logo Title Text 1")
 
 # Description of the dataset
-The link to the dataset consists of the six folders as described below:
+The link to the dataset consists of six folders as described below:
 #### 1. SnagImages: 
    This folder consists of the 100 general-domain images used in the data collection process. These images are a subset of the widely known Micorsoft Common Objects in Context (MSCOCO) dataset. License fo the MSCOCO dataset applies to these images.
 
