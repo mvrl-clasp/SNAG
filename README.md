@@ -2,7 +2,7 @@
 A multimodal dataset consisting of co-collected eye movements and spoken descriptions during image-inspection task. This dataset was collected with 30 observers inspecting and describing 100 general-domain images while their eye movements and spoken descriptions are recorded. 
 We also provide an Image Annotation Software that allows labeling of image regions with words.
 
-![alt text](https://github.com/mvrl-clasp/SNAG/blob/master/images/thesissnagrawdata.jpg "Logo Title Text 1")
+![alt text](https://github.com/mvrl-clasp/SNAG/blob/master/thesissnagrawdata.jpg "Logo Title Text 1")
 
 # Description of the dataset
 The link to the dataset consists of the six folders as described below:
