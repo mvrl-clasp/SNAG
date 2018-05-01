@@ -11,7 +11,7 @@ The link to the dataset consists of six folders as described below:
 
 #### 2. SnagGazeData:
    This folder contains eye movements for 30 observers, each viewing 100 images. It consists of two folders:
-   (1) SnagFixation: This folder consists of 3000 csv files named as *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains fixation data for the specific image number as specified by *&lt;Image Number&gt;* for the observer number as specified by *&lt;Observer Number&gt;.csv*.
+   (1) SnagFixation: This folder consists of 3000 csv files named as *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains fixation data for the specific image number as specified by *&lt;Image Number&gt;* for the observer number as specified by *&lt;Observer Number&gt;*.
    
    (2) SnagSaccade: This folder consists of 3000 csv files named as *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains saccade data for the specific image number as specified by *&lt;Image Number&gt;* for the observer number as specified by        *&lt;Observer Number&gt;*.
 
