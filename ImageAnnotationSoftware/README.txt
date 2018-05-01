@@ -50,3 +50,27 @@ Links and References
 * Qt Download Archive: http://download.qt.io/archive/qt/4.8/
 * PySide source: https://pypi.python.org/packages/source/P/PySide/PySide-1.2.2.tar.gz
 * PySide Documentation Site: https://wiki.qt.io/PySideDocumentation
+
+
+Usage
+================================================================================================================================
+
+1. On command line navigate to the folder ImageAnnotationSoftware.
+2. Type 
+         python ImageSegmentationLabellingTool.py
+3. The image in the Images folder opens up in the user interface. 
+4. Press 's' on your keyboard; the mouse cursor changes to '+' sign
+5. Using your mouse click on a boundary point of the region you want to annotate. 
+6. Press 's' again and hit enter.
+7. A dialog box will open with all the words from the text file in the folder RegionLabels. 
+8. CLick on the words you wish to annotate the marked-up region with.
+9. Click on Save.
+10. The output file would be saved in the folder Annotations. 
+
+Important Notes: 
+1. The images and the corresponding label list from the folder RegionLabels are accessed by the sequence and not by 
+their names. Therefore the order of the images should match the order of the label files as shown in the example folders. 
+2. Each output file is saved with a time stamp, which means each time you open up the same image for annotation and
+mark-up the region and annotate with words, it will be saved as a new file. 
+
+
