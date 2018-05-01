@@ -41,4 +41,4 @@ Please consider citing our paper when you use our dataset or software:
 
 Vaidyanathan, P., Prud'hommeaux, E., Pelz, J. B., and Alm, C. O., SNAG: Spoken Narratives and Gaze Dataset, ACL 2018. 
 
-For any questions about this dataset please contact Preethi Vaidyanathan at pxv1621@rit.edu.
+For any questions about this dataset or software please contact Preethi Vaidyanathan at pxv1621@rit.edu.
