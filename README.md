@@ -1,7 +1,9 @@
 # SNAG
-![alt text](https://github.com/mvrl-clasp/SNAG/blob/master/images/thesissnagrawdata.jpg "Logo Title Text 1")
-
 A multimodal dataset consisting of co-collected eye movements and spoken descriptions during image-inspection task. This dataset was collected with 30 observers inspecting and describing 100 general-domain images while their eye movements and spoken descriptions are recorded. 
+# Image Annotation Software
+This folder contains the Image Annotation User Interface as briefly described in the ACL paper. This software allows a user to boundary around regions in the image and check off words they can be annotated with. For more information, please refer to the README.txt and License.txt file within the folder. 
+
+![alt text](https://github.com/mvrl-clasp/SNAG/blob/master/images/thesissnagrawdata.jpg "Logo Title Text 1")
 
 # Description of the dataset
 The link to the dataset consists of the six folders as described below:
@@ -27,8 +29,7 @@ The link to the dataset consists of the six folders as described below:
 #### 6. SnagTranscribedTXT_Corrected_5Images:
    This folder consists of the manually corrected ASR transcriptions for audio files (for 30 observers) corresponding to 5 images i.e. 150 files in *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt* format. 
 
-# Image Annotation Software
-This folder contains the Image Annotation User Interface as briefly described in the ACL paper. This software allows a user to boundary around regions in the image and check off words they can be annotated with. For more information, please refer to the README.txt and License.txt file within the folder. 
+
 
 # Download Dataset
 link to the drive where dataset is
