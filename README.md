@@ -34,10 +34,10 @@ This folder contains the Image Annotation User Interface as briefly described in
 link to the drive where dataset is
 
 # License
-Please se License.txt
+Please see License.txt
 
 # Citation and Contact
-Please consider citing our paper when you use our dataset:
+Please consider citing our paper when you use our dataset or software:
 
 Vaidyanathan, P., Prud'hommeaux, E., Pelz, J. B., and Alm, C. O., SNAG: Spoken Narratives and Gaze Dataset, ACL 2018. 
 
