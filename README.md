@@ -31,7 +31,7 @@ The link to the dataset consists of six folders as described below:
 This folder contains the Image Annotation User Interface as briefly described in the ACL paper. This software allows a user to boundary around regions in the image and check off words they can be annotated with. For more information, please refer to the README.txt and License.txt file within the folder. 
 
 # Download Dataset
-link to the drive where dataset is
+https://drive.google.com/drive/folders/1P-K7kLjEp7hBUCZG53YHCqYO08Z6zdvy?usp=sharing
 
 # License
 Please see License.txt
