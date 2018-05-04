@@ -6,7 +6,7 @@ SNAG is a multimodal dataset consisting of co-collected eye movements and spoken
 # Description of the dataset
 The dataset consists of six folders as described below:
 #### 1. SnagImages: 
-   This folder contains of the 100 general-domain images used in the data collection process. These images are a subset of the widely known Micorsoft Common Objects in Context (MSCOCO) dataset. The license for the MSCOCO dataset (REF) applies to these images.
+   This folder contains of the 100 general-domain images used in the data collection process. These images are a subset of the widely known Micorsoft Common Objects in Context (MSCOCO) dataset. The license for the MSCOCO dataset (REF) applies to these images. To see an example click: [40.jpg](https://drive.google.com/file/d/1QKfN_0N2uv4duNgoGB9U2SY-i6yhWyDT/view?usp=sharing)
 
 #### 2. SnagGazeData:
    This folder contains eye movements for 30 observers, each viewing 100 images. It contains two folders:
