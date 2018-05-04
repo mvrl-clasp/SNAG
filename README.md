@@ -12,7 +12,7 @@ The dataset consists of six folders as described below:
    This folder contains eye movements for 30 observers, each viewing 100 images. It contains two folders:
    (1) SnagFixation: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains fixation data for the indicated image number and observer number. Click here to see an example: [Aud12_Obs9.csv](https://drive.google.com/file/d/1eODq9g_db25N2MCheBrNlnPaDRYIzIUc/view?usp=sharing)
    
-   (2) SnagSaccade: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains saccade data for the indicated image number and observer number. Click here to see an example: [Aud12_Obs9.csv]()
+   (2) SnagSaccade: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains saccade data for the indicated image number and observer number. Click here to see an example: [Aud12_Obs9.csv](https://drive.google.com/file/d/1Q8DzY0zTglwr-Zy5voBMll9l9BZWbhYs/view?usp=sharing)
 
 #### 3. SnagAudioWav:
    This folder contains 3000 audio files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.wav*. Each file contains spoken descriptions for the indicated image number and observer number. Click to hear an example: [Aud4_Obs3.wav](https://drive.google.com/file/d/13WGdCpKT4ZAKDodF3xw0pBgzWATVC8WO/view?usp=sharing)
@@ -24,7 +24,7 @@ The dataset consists of six folders as described below:
    This folder contains transcriptions for each audio file in TXT format. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the transcriptions for the indicated image number and observer number. Click to see an example: [Aud4_Obs3.txt](https://drive.google.com/file/d/1CLEH67j0cgphdDSZ0gfXACau2b6BGyKH/view?usp=sharing)
   
 #### 6. SnagTranscribedTXT_Corrected_5Images:
-   This folder contains the manually corrected ASR transcriptions for audio files (for 30 observers) corresponding to 5 images i.e. 150 files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the manually corrected transcription for the indicated image number and observer number. 
+   This folder contains the manually corrected ASR transcriptions for audio files (for 30 observers) corresponding to 5 images i.e. 150 files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the manually corrected transcription for the indicated image number and observer number. Click to see an example: [Aud1_Obs31.txt](https://drive.google.com/file/d/1ohj1VzksMl_F35HZLgBMu5vMSIfjhFPq/view?usp=sharing)
 
 # Download Dataset
 [SNAG Dataset](https://drive.google.com/drive/folders/1P-K7kLjEp7hBUCZG53YHCqYO08Z6zdvy?usp=sharing)
