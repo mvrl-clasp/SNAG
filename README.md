@@ -34,7 +34,7 @@ This folder contains RegionLabeler, the image annotation user interface as brief
 
 Download:
 
-[RegionLabeler](https://drive.google.com/open?id=1P-K7kLjEp7hBUCZG53YHCqYO08Z6zdvy)
+[RegionLabeler](https://drive.google.com/drive/folders/1e6ZMmMNd52WPLEwmJ-s8pNzXS0IN17VH?usp=sharing)
 
 # License
 Please see License.txt
