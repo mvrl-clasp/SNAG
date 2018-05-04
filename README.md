@@ -2,7 +2,7 @@
 SNAG is a multimodal dataset consisting of co-collected eye movements and spoken descriptions produced during an image-inspection task. This dataset was collected from 30 observers whose eye movements and spoken descriptions were recorded as they inspected and describing 100 general-domain images. We also provide an image annotation tool (RegionLabeler) for manually labeling image regions with words. This dataset and the annotation tool were collected and developed by a group of researchers associated with the [Multidisciplinary Vision Research Lab](http://mvrl.cis.rit.edu/) and [Computational Linguistics and Speech Processing Lab](https://www.rit.edu/clasp/) at Rochester Institute of Technology.
 
 ![Raw data](https://github.com/mvrl-clasp/SNAG/blob/master/thesissnagrawdata.jpg "Logo Title Text 1")
-![raw data](SNAG/thesissnagrawdata.jpg)
+
 # Description of the dataset
 The dataset consists of six folders as described below:
 #### 1. SnagImages: 
@@ -15,7 +15,7 @@ The dataset consists of six folders as described below:
    (2) SnagSaccade: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains saccade data for the indicated image number and observer number.
 
 #### 3. SnagAudioWav:
-   This folder contains 3000 audio files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.wav*. Each file contains spoken descriptions for the indicated image number and observer number. 
+   This folder contains 3000 audio files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.wav*. Each file contains spoken descriptions for the indicated image number and observer number. Click to hear an example: [Aud4_Obs3.wav](https://drive.google.com/file/d/13WGdCpKT4ZAKDodF3xw0pBgzWATVC8WO/view?usp=sharing)
    
 #### 4. SnagTranscribedJSON:
    This folder contains transcriptions of each audio file obtained with IBM Watson automatic speech recognition. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.JSON*. Each file contains the transcriptions for the indicated image number and observer number.
