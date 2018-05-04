@@ -37,7 +37,8 @@ Download:
 [RegionLabeler](https://drive.google.com/drive/folders/1e6ZMmMNd52WPLEwmJ-s8pNzXS0IN17VH?usp=sharing)
 
 # License
-Please see License.txt
+[SNAGLicense.pdf](https://drive.google.com/file/d/1oyhkPnFniqBuh0UJoJ-l9U-70UEbI6rR/view?usp=sharing)
+[RegionLabelerLicense.pdf](https://drive.google.com/file/d/1LpmSMNu1s0S8U3-EcYB3ANvS9K0n2wHd/view?usp=sharing)
 
 # Citation and Contact
 Please cite our paper when you use this dataset or the image anotation software:
