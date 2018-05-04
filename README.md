@@ -1,43 +1,44 @@
 # SNAG
-A multimodal dataset consisting of co-collected eye movements and spoken descriptions during image-inspection task. This dataset was collected with 30 observers inspecting and describing 100 general-domain images while their eye movements and spoken descriptions are recorded. 
-We also provide an Image Annotation Software that allows labeling of image regions with words.
+SNAG is a multimodal dataset consisting of co-collected eye movements and spoken descriptions produced during an image-inspection task. This dataset was collected from 30 observers whose eye movements and spoken descriptions were recorded as they inspected and describing 100 general-domain images. We also provide an image annotation tool (LINK) for manually labeling image regions with words.
 
 ![alt text](https://github.com/mvrl-clasp/SNAG/blob/master/thesissnagrawdata.jpg "Logo Title Text 1")
 
 # Description of the dataset
-The link to the dataset consists of six folders as described below:
+The dataset consists of six folders as described below:
 #### 1. SnagImages: 
-   This folder consists of the 100 general-domain images used in the data collection process. These images are a subset of the widely known Micorsoft Common Objects in Context (MSCOCO) dataset. License fo the MSCOCO dataset applies to these images.
+   This folder contains of the 100 general-domain images used in the data collection process. These images are a subset of the widely known Micorsoft Common Objects in Context (MSCOCO) dataset. The license for the MSCOCO dataset (REF) applies to these images.
 
 #### 2. SnagGazeData:
-   This folder contains eye movements for 30 observers, each viewing 100 images. It consists of two folders:
-   (1) SnagFixation: This folder consists of 3000 csv files named as *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains fixation data for the specific image number as specified by *&lt;Image Number&gt;* for the observer number as specified by *&lt;Observer Number&gt;*.
+   This folder contains eye movements for 30 observers, each viewing 100 images. It contains two folders:
+   (1) SnagFixation: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains fixation data for the indicated image number and observer number.
    
-   (2) SnagSaccade: This folder consists of 3000 csv files named as *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains saccade data for the specific image number as specified by *&lt;Image Number&gt;* for the observer number as specified by        *&lt;Observer Number&gt;*.
+   (2) SnagSaccade: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains saccade data for the indicated image number and observer number.
 
 #### 3. SnagAudioWav:
-   This folder consists of 3000 audio files in *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.wav* format, each file corresponding to the spoken descriptions for image number as specified by *&lt;Image Number&gt;* for the observer number as specified by        *&lt;Observer Number&gt;*.
+   This folder contains 3000 audio files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.wav*. Each file contains spoken descriptions for the indicated image number and observer number. 
    
 #### 4. SnagTranscribedJSON:
-   This folder consists of transcriptions for each audio file obtained through IBM Watson ASR. The files are in *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.JSON* format. Each file corresponds to the transcriptions for the image number *&lt;Image Number&gt;* for observer number *&lt;Observer Number&gt;*. 
+   This folder contains transcriptions of each audio file obtained with IBM Watson automatic speech recognition. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.JSON*. Each file contains the transcriptions for the indicated image number and observer number.
    
 #### 5. SnagTranscribedTXT:
-   This folder consists of transcriptions for each audio file in TXT format. The files are in *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt* format. Each file corresponds to the transcriptions for the image number *&lt;Image Number&gt;* for observer number *&lt;Observer Number&gt;*.
+   This folder contains transcriptions for each audio file in TXT format. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the transcriptions for the indicated image number and observer number.
   
 #### 6. SnagTranscribedTXT_Corrected_5Images:
-   This folder consists of the manually corrected ASR transcriptions for audio files (for 30 observers) corresponding to 5 images i.e. 150 files in *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt* format. 
-
-# Image Annotation Software
-This folder contains the Image Annotation User Interface as briefly described in the ACL paper. This software allows a user to boundary around regions in the image and check off words they can be annotated with. For more information, please refer to the README.txt and License.txt file within the folder. 
+   This folder contains the manually corrected ASR transcriptions for audio files (for 30 observers) corresponding to 5 images i.e. 150 files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the manually corrected transcription for the indicated image number and observer number. 
 
 # Download Dataset
 https://drive.google.com/drive/folders/1P-K7kLjEp7hBUCZG53YHCqYO08Z6zdvy?usp=sharing
+
+# Image Annotation Software
+This folder contains the Image Annotation User Interface as briefly described in the ACL paper. This software allows a user to boundary around regions in the image and check off words they can be annotated with. For more information, please refer to the README.txt and License.txt file within the folder. 
+To download the software click on the link below:
+https://drive.google.com/open?id=1P-K7kLjEp7hBUCZG53YHCqYO08Z6zdvy
 
 # License
 Please see License.txt
 
 # Citation and Contact
-Please consider citing our paper when you use our dataset or software:
+Please cite our paper when you use this dataset or the image anotation software:
 
 Vaidyanathan, P., Prud'hommeaux, E., Pelz, J. B., and Alm, C. O., SNAG: Spoken Narratives and Gaze Dataset, ACL 2018. 
 
