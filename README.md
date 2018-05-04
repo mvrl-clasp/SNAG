@@ -10,18 +10,18 @@ The dataset consists of six folders as described below:
 
 #### 2. SnagGazeData:
    This folder contains eye movements for 30 observers, each viewing 100 images. It contains two folders:
-   (1) SnagFixation: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains fixation data for the indicated image number and observer number.
+   (1) SnagFixation: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains fixation data for the indicated image number and observer number. Click here to see an example: [Aud12_Obs9.csv](https://drive.google.com/file/d/1eODq9g_db25N2MCheBrNlnPaDRYIzIUc/view?usp=sharing)
    
-   (2) SnagSaccade: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains saccade data for the indicated image number and observer number.
+   (2) SnagSaccade: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains saccade data for the indicated image number and observer number. Click here to see an example: [Aud12_Obs9.csv]()
 
 #### 3. SnagAudioWav:
    This folder contains 3000 audio files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.wav*. Each file contains spoken descriptions for the indicated image number and observer number. Click to hear an example: [Aud4_Obs3.wav](https://drive.google.com/file/d/13WGdCpKT4ZAKDodF3xw0pBgzWATVC8WO/view?usp=sharing)
    
 #### 4. SnagTranscribedJSON:
-   This folder contains transcriptions of each audio file obtained with IBM Watson automatic speech recognition. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.JSON*. Each file contains the transcriptions for the indicated image number and observer number. Click to see an example: [Aud4_Obs3.JSON]()
+   This folder contains transcriptions of each audio file obtained with IBM Watson automatic speech recognition. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.json*. Each file contains the transcriptions for the indicated image number and observer number. Click to see an example: [Aud4_Obs3.json](https://drive.google.com/file/d/1Str3ysFcGGI_9z5zyRZG86dbfbjuh8IO/view?usp=sharing)
    
 #### 5. SnagTranscribedTXT:
-   This folder contains transcriptions for each audio file in TXT format. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the transcriptions for the indicated image number and observer number. Click to see an example: [Aud4_Obs3.JSON]()
+   This folder contains transcriptions for each audio file in TXT format. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the transcriptions for the indicated image number and observer number. Click to see an example: [Aud4_Obs3.txt](https://drive.google.com/file/d/1CLEH67j0cgphdDSZ0gfXACau2b6BGyKH/view?usp=sharing)
   
 #### 6. SnagTranscribedTXT_Corrected_5Images:
    This folder contains the manually corrected ASR transcriptions for audio files (for 30 observers) corresponding to 5 images i.e. 150 files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the manually corrected transcription for the indicated image number and observer number. 
