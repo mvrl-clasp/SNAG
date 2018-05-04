@@ -18,10 +18,10 @@ The dataset consists of six folders as described below:
    This folder contains 3000 audio files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.wav*. Each file contains spoken descriptions for the indicated image number and observer number. Click to hear an example: [Aud4_Obs3.wav](https://drive.google.com/file/d/13WGdCpKT4ZAKDodF3xw0pBgzWATVC8WO/view?usp=sharing)
    
 #### 4. SnagTranscribedJSON:
-   This folder contains transcriptions of each audio file obtained with IBM Watson automatic speech recognition. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.JSON*. Each file contains the transcriptions for the indicated image number and observer number.
+   This folder contains transcriptions of each audio file obtained with IBM Watson automatic speech recognition. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.JSON*. Each file contains the transcriptions for the indicated image number and observer number. Click to see an example: [Aud4_Obs3.JSON]()
    
 #### 5. SnagTranscribedTXT:
-   This folder contains transcriptions for each audio file in TXT format. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the transcriptions for the indicated image number and observer number.
+   This folder contains transcriptions for each audio file in TXT format. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the transcriptions for the indicated image number and observer number. Click to see an example: [Aud4_Obs3.JSON]()
   
 #### 6. SnagTranscribedTXT_Corrected_5Images:
    This folder contains the manually corrected ASR transcriptions for audio files (for 30 observers) corresponding to 5 images i.e. 150 files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the manually corrected transcription for the indicated image number and observer number. 
