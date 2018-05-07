@@ -6,25 +6,25 @@ SNAG is a multimodal dataset consisting of co-collected eye movements and spoken
 # Description of the dataset
 The dataset consists of six folders as described below:
 #### 1. SnagImages: 
-   This folder contains of the 100 general-domain images used in the data collection process. These images are a subset of the widely known Micorsoft Common Objects in Context (MSCOCO) dataset. The license for the MSCOCO dataset (REF) applies to these images. To see an example click: [40.jpg](https://drive.google.com/file/d/1QKfN_0N2uv4duNgoGB9U2SY-i6yhWyDT/view?usp=sharing)
+   This folder contains of the 100 general-domain images used in the data collection process. These images are a subset of the widely known Micorsoft Common Objects in Context (MSCOCO) dataset. The license for the MSCOCO dataset (REF) applies to these images. To see an example click: [1.jpg](https://drive.google.com/file/d/1XvpJmHR01N0qPkSRWpjguUBTEDBF14Ie/view?usp=sharing)
 
 #### 2. SnagGazeData:
    This folder contains eye movements for 30 observers, each viewing 100 images. It contains two folders:
-   (1) SnagFixation: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains fixation data for the indicated image number and observer number. Click here to see an example: [Aud12_Obs9.csv](https://drive.google.com/file/d/1eODq9g_db25N2MCheBrNlnPaDRYIzIUc/view?usp=sharing)
+   (1) SnagFixation: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains fixation data for the indicated image number and observer number. Click here to see an example: [Aud1_Obs31.csv](https://drive.google.com/file/d/1J-yTCRIoXEXceBaj_PSTxO3gDOhivIiN/view?usp=sharing)
    
-   (2) SnagSaccade: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains saccade data for the indicated image number and observer number. Click here to see an example: [Aud12_Obs9.csv](https://drive.google.com/file/d/1Q8DzY0zTglwr-Zy5voBMll9l9BZWbhYs/view?usp=sharing)
+   (2) SnagSaccade: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains saccade data for the indicated image number and observer number. Click here to see an example: [Aud1_Obs31.csv](https://drive.google.com/file/d/1F9ILSbyidEMKAp8k4yqm7nXLrN9yrsAd/view?usp=sharing)
 
 #### 3. SnagAudioWav:
    This folder contains 3000 audio files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.wav*. Each file contains spoken descriptions for the indicated image number and observer number. Click to hear an example: [Aud4_Obs3.wav](https://drive.google.com/file/d/13WGdCpKT4ZAKDodF3xw0pBgzWATVC8WO/view?usp=sharing)
    
 #### 4. SnagTranscribedJSON:
-   This folder contains transcriptions of each audio file obtained with IBM Watson automatic speech recognition. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.json*. Each file contains the transcriptions for the indicated image number and observer number. Click to see an example: [Aud4_Obs3.json](https://drive.google.com/file/d/1Str3ysFcGGI_9z5zyRZG86dbfbjuh8IO/view?usp=sharing)
+   This folder contains transcriptions of each audio file obtained with IBM Watson automatic speech recognition. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.json*. Each file contains the transcriptions for the indicated image number and observer number. Click to see an example: [Aud1_Obs31.json](https://drive.google.com/file/d/1hEWgUPyS1UJfDXRGS_8hPLT_nVrsOw82/view?usp=sharing)
    
 #### 5. SnagTranscribedTXT:
-   This folder contains transcriptions for each audio file in TXT format. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the transcriptions for the indicated image number and observer number. Click to see an example: [Aud4_Obs3.txt](https://drive.google.com/file/d/1CLEH67j0cgphdDSZ0gfXACau2b6BGyKH/view?usp=sharing)
+   This folder contains transcriptions for each audio file in TXT format. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the transcriptions for the indicated image number and observer number. Click to see an example: [Aud1_Obs31.txt]()
   
 #### 6. SnagTranscribedTXT_Corrected_5Images:
-   This folder contains the manually corrected ASR transcriptions for audio files (for 30 observers) corresponding to 5 images i.e. 150 files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the manually corrected transcription for the indicated image number and observer number. Click to see an example: [Aud1_Obs31.txt](https://drive.google.com/file/d/1ohj1VzksMl_F35HZLgBMu5vMSIfjhFPq/view?usp=sharing)
+   This folder contains the manually corrected ASR transcriptions for audio files (for 30 observers) corresponding to 5 images i.e. 150 files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the manually corrected transcription for the indicated image number and observer number. Click to see an example: [Aud1_Obs31.txt](https://drive.google.com/file/d/1FyVYpoDv77gyz1OzICRYsu95wIazL0EN/view?usp=sharing)
 
 # Download Dataset
 [SNAG Dataset](https://drive.google.com/drive/folders/1P-K7kLjEp7hBUCZG53YHCqYO08Z6zdvy?usp=sharing)
