@@ -37,6 +37,11 @@ Download:
 
 [RegionLabeler](https://drive.google.com/drive/folders/1e6ZMmMNd52WPLEwmJ-s8pNzXS0IN17VH?usp=sharing)
 
+# AnnVis Visualizer
+This folder contains the AnnVis software that allows visualizing words associated with regions in an image.
+
+Download: Coming soon
+
 # License
 [SNAGLicense.pdf](https://drive.google.com/file/d/1oyhkPnFniqBuh0UJoJ-l9U-70UEbI6rR/view?usp=sharing)
 
