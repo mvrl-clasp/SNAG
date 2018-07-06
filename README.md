@@ -7,7 +7,7 @@ SNAG is a multimodal dataset consisting of co-collected eye movements and spoken
 # Description of the dataset
 The dataset consists of six folders as described below:
 #### 1. SnagImages: 
-   This folder contains of the 100 general-domain images used in the data collection process. These images are a subset of the widely known Micorsoft Common Objects in Context (MSCOCO) dataset. The license for the MSCOCO dataset (REF) applies to these images. To see an example click: [1.jpg](https://drive.google.com/file/d/1XvpJmHR01N0qPkSRWpjguUBTEDBF14Ie/view?usp=sharing)
+   This folder consists of the 100 general-domain images used in the data collection process. These images are a subset of the widely known Micorsoft Common Objects in Context (MSCOCO) dataset. The license for the MSCOCO dataset (REF) applies to these images. To see an example click: [1.jpg](https://drive.google.com/file/d/1XvpJmHR01N0qPkSRWpjguUBTEDBF14Ie/view?usp=sharing)
 
 #### 2. SnagGazeData:
    This folder contains eye movements for 30 observers, each viewing 100 images. It contains two folders:
@@ -30,15 +30,10 @@ The dataset consists of six folders as described below:
 # RegionLabeler: Image Region Annotation Software
 This folder contains RegionLabeler, the image annotation user interface as briefly described in the ACL paper. This software allows a user to draw boundary around regions in the image and check off words they can be annotated with. For more information, please refer to the README.txt within the folder. 
 
-# AnnVis Visualizer
-This folder contains the AnnVis software that allows visualizing words associated with regions in an image.
-
 # Downloads 
 [SNAG Dataset](https://drive.google.com/drive/folders/1P-K7kLjEp7hBUCZG53YHCqYO08Z6zdvy?usp=sharing)
 
 [RegionLabeler](https://drive.google.com/drive/folders/1e6ZMmMNd52WPLEwmJ-s8pNzXS0IN17VH?usp=sharing)
-
-AnnVis: coming soon
 
 # License
 [SNAGLicense.pdf](https://drive.google.com/file/d/1oyhkPnFniqBuh0UJoJ-l9U-70UEbI6rR/view?usp=sharing)
