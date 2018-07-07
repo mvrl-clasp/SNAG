@@ -12,9 +12,9 @@ The dataset consists of six folders as described below:
 #### 2. SnagGazeData:
    This folder contains eye movements for 30 observers, each viewing 100 images. It contains two folders:
    
-   (1) SnagFixation: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains fixation data for the indicated image number and observer number. Click here to see an example: [Aud1_Obs31.csv](https://drive.google.com/file/d/1J-yTCRIoXEXceBaj_PSTxO3gDOhivIiN/view?usp=sharing)
+   (1) SnagFixation: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains fixation data for the indicated image number and observer number. Click here to see an example: [Aud1_Obs31.csv](https://drive.google.com/file/d/1J-yTCRIoXEXceBaj_PSTxO3gDOhivIiN/view?usp=sharing).fixation.csv
    
-   (2) SnagSaccade: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains saccade data for the indicated image number and observer number. Click here to see an example: [Aud1_Obs31.csv](https://drive.google.com/file/d/1F9ILSbyidEMKAp8k4yqm7nXLrN9yrsAd/view?usp=sharing)
+   (2) SnagSaccade: This folder contains 3000 csv files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.csv*. Each file contains saccade data for the indicated image number and observer number. Click here to see an example: [Aud1_Obs31.csv](https://drive.google.com/file/d/1F9ILSbyidEMKAp8k4yqm7nXLrN9yrsAd/view?usp=sharing).saccade.csv
 
 #### 3. SnagAudioWav:
    This folder contains 3000 audio files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.wav*. Each file contains spoken descriptions for the indicated image number and observer number. Click to hear an example: [Aud4_Obs3.wav](https://drive.google.com/file/d/13WGdCpKT4ZAKDodF3xw0pBgzWATVC8WO/view?usp=sharing)
