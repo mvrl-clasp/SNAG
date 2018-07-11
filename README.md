@@ -37,7 +37,7 @@ This folder contains RegionLabeler, the image annotation user interface as brief
 [RegionLabeler](https://drive.google.com/open?id=1aqrJ0zx5kCqbjyVppK2bFYs7xw2RNHn6)
 
 # License
-[SNAGLicense.pdf](https://drive.google.com/file/d/1oyhkPnFniqBuh0UJoJ-l9U-70UEbI6rR/view?usp=sharing)
+[SNAGLicense.pdf](https://drive.google.com/file/d/1cwfBewJSUlUGwr_mEJzxqayz-FkhIT6h/view?usp=sharing)
 
 [RegionLabelerLicense.pdf](https://drive.google.com/file/d/1LpmSMNu1s0S8U3-EcYB3ANvS9K0n2wHd/view?usp=sharing)
 
