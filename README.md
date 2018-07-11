@@ -26,7 +26,7 @@ The dataset consists of six folders as described below:
    This folder contains transcriptions for each audio file in TXT format. The files are named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the transcriptions for the indicated image number and observer number. Click to see an example: [Aud1_Obs31.txt](https://drive.google.com/open?id=1HxzHcqpmAyjXhZ__fsqOWh5vVbZQ-A9_)
   
 #### 6. SnagTranscribedTXT_Corrected_5Images:
-   This folder contains the manually corrected ASR transcriptions for audio files (for 30 observers) corresponding to 5 images i.e. 150 files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the manually corrected transcription for the indicated image number and observer number. Click to see an example: [Aud1_Obs31.txt](https://drive.google.com/file/d/1FyVYpoDv77gyz1OzICRYsu95wIazL0EN/view?usp=sharing).corrected
+   This folder contains the manually corrected ASR transcriptions for audio files (for 30 observers) corresponding to 5 images i.e. 150 files named *Aud&lt;Image Number&gt;_Obs&lt;Observer Number&gt;.txt*. Each file contains the manually corrected transcription for the indicated image number and observer number. Click to see an example: [Aud1_Obs31.txt](https://drive.google.com/open?id=1HxzHcqpmAyjXhZ__fsqOWh5vVbZQ-A9_).corrected
 
 # RegionLabeler: Image Region Annotation Software
 This folder contains RegionLabeler, the image annotation user interface as briefly described in the ACL paper. This software allows a user to draw boundary around regions in the image and check off words they can be annotated with. For more information, please refer to the README.txt within the folder. 
