@@ -47,17 +47,29 @@ Please cite our paper when you use this dataset or the image anotation software:
 Vaidyanathan, P., Prud'hommeaux, E., Pelz, J. B., and Alm, C. O., SNAG: Spoken Narratives and Gaze Dataset, Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics, Vol 2, pp. 132-137 or the following bibtex:
 
 @InProceedings{P18-2022,
+
   author = 	"Vaidyanathan, Preethi
+  
 		and Prud'hommeaux, Emily T.
+		
 		and Pelz, Jeff B.
+		
 		and Alm, Cecilia O.",
+		
   title = 	"SNAG: Spoken Narratives and Gaze Dataset",
+  
   booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+  
   year = 	"2018",
+  
   publisher = 	"Association for Computational Linguistics",
+  
   pages = 	"132--137",
+  
   location = 	"Melbourne, Australia",
+  
   url = 	"http://aclweb.org/anthology/P18-2022"
+  
 }
 
 
