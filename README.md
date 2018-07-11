@@ -31,7 +31,7 @@ The dataset consists of six folders as described below:
 # RegionLabeler: Image Region Annotation Software
 This folder contains RegionLabeler, the image annotation user interface as briefly described in the ACL paper. This software allows a user to draw boundary around regions in the image and check off words they can be annotated with. For more information, please refer to the README.txt within the folder. 
 
-# Downloads 
+# Downloads  
 [SNAG Dataset](https://drive.google.com/open?id=1HXf1_iC-_uhe7Rr-Nr2kZ5Z3d9y5rw1L)
 
 [RegionLabeler](https://drive.google.com/drive/folders/1e6ZMmMNd52WPLEwmJ-s8pNzXS0IN17VH?usp=sharing)
