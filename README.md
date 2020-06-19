@@ -39,7 +39,6 @@ This folder contains RegionLabeler, the image annotation user interface as brief
 If you would like the MSCOCO ids for the SNAG images, please download the folder below. Each image file has the MSCOCO id alognwith the SNAG image id.
 
 [SNAGImagesWithMSCOCOId](https://drive.google.com/file/d/1w3f7CG43gBFJKeZQ5ioqO0J9f9drjjKY/view?usp=sharing)
-
 # License
 [SNAGLicense.pdf](https://drive.google.com/file/d/1cwfBewJSUlUGwr_mEJzxqayz-FkhIT6h/view?usp=sharing)
 
